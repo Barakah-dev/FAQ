@@ -1,0 +1,1 @@
+An FAQ component with day and night mode properties, built with HTML, CSS and javaScript.
