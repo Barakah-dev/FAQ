@@ -9,8 +9,7 @@
   --container-light: white;
   
   --first-dark:rgb(156, 8, 8);  
-  --second-dark: rgb(89, 53, 5);  
-  /* --third-dark: rgb(5, 100, 108); */
+  --second-dark: rgb(89, 53, 5);
   --third-dark: #04061e;
   --fourth-dark: rgb(110, 3, 3);  
   --fifth-dark: rgb(78, 5, 88);  
@@ -22,9 +21,7 @@
   --fourth-light: rgb(231, 158, 158);  
   --fifth-light: rgb(223, 158, 231);  
   --sixth-light: rgb(186, 242, 223);  
-
 }
-
 
 *{
   margin: 0;
@@ -78,7 +75,7 @@ nav{
 .container{
   margin:  100px auto 0;
   padding: 20px;
-  width: 80%;
+  width: 90%;
   max-width: 700px;
   background-color: var(--container-light);
 }
